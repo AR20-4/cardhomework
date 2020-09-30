@@ -2,7 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Kadwa&family=Montserrat:wght@300&display=swap');
 
-/* I took some of this code from codepen, The outline of the box alond with the animation. I hopt that was okay. I wrote the code for the styling. */
+/* I took some of this code from codepen, The outline of the box along with the dropshadow. I hopt that was okay. I wrote the code for the styling. */
 body {
   margin: 0;
   padding: 0;
@@ -99,6 +99,14 @@ hr{
   text-align: center;
   font-size: 2.9rem;
   padding-top: 1rem;
+}
+
+.card-icons i:hover {
+  color: pink;
+}
+
+.card-icons i:active {
+  color: grey;
 }
 
 .card-icons i {
