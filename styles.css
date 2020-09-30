@@ -48,8 +48,8 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate3d
   width: 48%;
   background-image: url(img/jane-doe.jpg
 );
-  background-size: 100%;
-  background-repeat: no-repeat;
+  background-size: 110%;
+  /*background-repeat: no-repeat;*/
   background-position: center;
   border-radius: 50%;
   border: 6px solid white;
