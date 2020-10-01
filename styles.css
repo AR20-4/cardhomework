@@ -12,6 +12,7 @@ body {
 .card-container {
   display: flex;
   height: 100vh;
+  border-radius: 5%;
   align-items: center;
   justify-content: space-around;
 }
@@ -19,6 +20,7 @@ body {
 .card {
   height: 500px;
   width: 300px;
+  border-radius: 5%;
   background-color: #f7f7f7;
   box-shadow: 5px 4px 4px #828282;
 }
@@ -35,6 +37,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate3d
 .card-photo-river {
   height: 35%;
   width: 100%;
+  border-radius: 5%;
   background-image: url(img/river.jpg
 );
   background-size: 100%;
